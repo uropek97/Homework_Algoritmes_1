@@ -1,0 +1,7 @@
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\bin\Debug\Homework2.1.exe.config
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\bin\Debug\Homework2.1.exe
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\bin\Debug\Homework2.1.pdb
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\obj\Debug\Homework2.1.csproj.AssemblyReference.cache
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\obj\Debug\Homework2.1.csproj.CoreCompileInputs.cache
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\obj\Debug\Homework2.1.exe
+C:\Users\chebo\OneDrive\Рабочий стол\new homework\Homework_algoritm_1\Homework2.1\obj\Debug\Homework2.1.pdb
